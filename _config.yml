@@ -9,15 +9,15 @@
 title: Stone Journal Text Analysis Project - Test
 
 # Your name to show in the footer
-author: A. Svenson
+author: Alicia Svenson
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Site Index:
+    - Project Context: "historiccontext"
+    - Analysis Overview: "methods"
   About: "aboutme"
 
 # --- Logo --- #

@@ -1,14 +1,11 @@
 ---
 layout: page
 title: About This Project
-#subtitle: Why you'd want to go on a date with me
+#subtitle: 
 ---
-
-Text here about the DH progam and thanks for everyone who helped with it
-
-
-What else do you need?
 
 ### Text here?
 
-Text
+Short bio & info on DH class and INSH 6406
+
+Link to Hathitrust
