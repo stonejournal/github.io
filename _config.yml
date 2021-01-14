@@ -100,7 +100,7 @@ share-links-active:
 
 navbar-col: "#E0EBEB"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#E0EBEB"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
