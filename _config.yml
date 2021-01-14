@@ -19,10 +19,8 @@ navbar-links:
     - Historic Context: "p_historiccontext"
     - Stone Journal: "p_journal"
     - Analysis Overview: "p_methods"
-    - Analysis Results:
-        - Word Frequency: "p_reswordfreq"
-        - Keywords in Context: "p_reskeywords"
-        - Word Vectors: "p_reswordvec"
+    - Analysis Results: "p_results"
+        
   About: "aboutme"
 
 # --- Logo --- #
