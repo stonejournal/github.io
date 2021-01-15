@@ -18,12 +18,12 @@ author: Alicia Svenson
 navbar-links:
   
   Site Index:
-    - Historic Context: "p_historiccontext"
-    - Stone Journal: "p_journal"
-    - Analysis Overview: "p_methods"
-    - Analysis Results: "p_results"
+    - Historic Context: "historiccontext"
+    - Stone Journal: "journal"
+    - Analysis Overview: "methods"
+    - Analysis Results: "results"
         
-  About: "aboutme"
+  About: "about"
 
 # --- Logo --- #
 
@@ -205,9 +205,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
-      layout: "post"
+      layout: "page"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
