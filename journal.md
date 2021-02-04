@@ -6,14 +6,6 @@ title: Stone Journal
 
 ### *Stone: An Illustrated Magazine*
 
-Introduction to Stone Journal
-- Who wrote this journal?
-- What kinds of things does this journal typically cover?
-- What can the journal tell us about the stone quarrying industry and employers' views on health, safety, and the environment?
-
-Links to different sections...
-Link to HathiTrust record for journal
-
 The dataset, or corpora, for the project is the publication *Stone: An Illustrated Journal*, a monthly journal of the stone quarrying industry first published by the D.H. Ranck Publishing Co. in Indianapolis, IN. The first issue of the journal was published in May, 1888. In 1898 publication of the journal was transferred to a series of publishers located in New York, NY. The journal continued to be published through the early 1970s. It's byline was "A Journal for Producers, Workers and Users of Stone, Marble and Granite." 
 
 The first article of its first (May, 1888) issue laid out the kind of material that they would publish which remained consistent through the 1920s:
