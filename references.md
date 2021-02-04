@@ -1,15 +1,10 @@
 ---
 layout: page
-title: Stone Journal
+title: References
 #subtitle: 
 ---
 
-### Title text
+### Historic Research References
 
-Introduction to Stone Journal
-- Who wrote this journal?
-- What kinds of things does this journal typically cover?
-- What can the journal tell us about the stone quarrying industry and employers' views on health, safety, and the environment?
+### Text Analysis References
 
-Links to different sections...
-Link to HathiTrust record for journal
