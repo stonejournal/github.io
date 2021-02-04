@@ -22,6 +22,7 @@ navbar-links:
     - Stone Journal: "journal"
     - Analysis Overview: "methods"
     - Analysis Results: "results"
+    - References: "references"
         
   About: "about"
 
