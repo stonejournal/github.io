@@ -10,29 +10,24 @@ The dataset, or corpora, for the project is the publication *Stone: An Illustrat
 
 The first (May, 1888) issue laid out the kind of material that that would be published in the journal. This mix of materials remained consistent through the 1920s:
 
-###### "Contributions of a reliable and interesting character on technical topics" 
-These topics range in scope throughout the journal and include articles on stone cutting techniques, construction methods, travelogues of stone producing regions around the world, descriptions of specific stone types, and analysis of architectural styles that used stone as a primary material.
+- **"Contributions of a reliable and interesting character on technical topics:"** These topics range in scope throughout the journal and include articles on stone cutting techniques, construction methods, travelogues of stone producing regions around the world, descriptions of specific stone types, and analysis of architectural styles that used stone as a primary material.
 
-###### "Descriptive matter applying to mechanical devices which have to do with quarrying, cutting, handling and working stone; and articles relating to trade conditions."
+- **"Descriptive matter applying to mechanical devices which have to do with quarrying, cutting, handling and working stone; and articles relating to trade conditions."**
 
-###### "Designs in any detail of stone working"
+- **"Designs in any detail of stone working"**
 These articles provide details for monument designs and decorative cutting patterns.
 
-###### "News matter which would apply to any branch in our field"
-This includes regulatory information; news about new techniques or machinery; items relating to labor disputes (almost always as a negative occurrence); announcements about new quarry openings, new stone products, and markets; and obituaries for important figures in the industry.
+- **"News matter which would apply to any branch in our field:"** This includes regulatory information; news about new techniques or machinery; items relating to labor disputes (almost always as a negative occurrence); announcements about new quarry openings, new stone products, and markets; and obituaries for important figures in the industry.
 
-###### General correspondence and short news items provided by subscribers published in a monthly "Notes from Quarry and Shop" section.
+- **General correspondence and short news items** provided by subscribers published in a monthly "Notes from Quarry and Shop" section.
 
+- **Reference statistics and stone testing information.**
 
-###### Reference statistics and stone testing information.
+- A **"Contract News"** section with information on upcoming projects that might be looking for stone suppliers.
 
+- **Current stone price lists**.
 
-###### A "Contract News" section with information on upcoming projects that might be looking for stone suppliers.
-
-###### Current stone price lists.
-
-######Other
-Not mentioned specifically, but present in the journal, are original short stories and poems along and reviews of recently published books that might be of interest to readers. The last few pages of each issue consisted of a “for sale/help wanted” section.
+- **Other:** Not mentioned specifically, but present in the journal, are original short stories and poems along and reviews of recently published books that might be of interest to readers. The last few pages of each issue consisted of a “for sale/help wanted” section.
  
 The journal (with some publication and digitization interruptions) has been digitized by the New York Public Library and is available up until 1922 through [HathiTrust](https://catalog.hathitrust.org/Record/008616079). HathiTrust has plain text versions available for Volumes 1, 2, 4-6, 14-19, 24, 26, 28-33, 35-43 covering the years 1888-1922. Most of the missing volumes are unfortunately within the 1890-1910 timeframe. While the issues of Stone from 1922 and earlier are in the public domain, the “digital copy” (the scan and OCR-generated text) is owned by Google with HathiTrust as the distributer. Gaining access to the text files involved submitting a formal research proposal to HathiTrust and a legal agreement between my institution (Northeastern University) and Google that the text would be used only for research and not made public.
  
