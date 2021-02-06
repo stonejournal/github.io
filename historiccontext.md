@@ -14,7 +14,7 @@ Most previous studies around changing workplace safety standards with an industr
 
 **Add additional information here about quarry work in the 1880s-1920s.**
 
-One publication for this industry was [*Stone: An Illustrated Magazine*](journal), which billed itself "A Journal For Producers, Workers and Users of Stone, Marble and Granite".  First published in 1888 by the D.H. Ranck Publishing Co., the monthly journal featured a mix of articles about stone markets and new quarry locations, technical information about stone types and machinery, and notes on new projects requiring stone and pertinent legislation. In addition each issue was filled with advertisements for stone quarrying equipment, provided a list of upcoming contracts involving stone to inform subscribers of potential work, provided an updated list of stone prices, and contained general quarry news items and a “for sale/help wanted” section.
+One publication for this industry was [*Stone: An Illustrated Magazine*](journal), which billed itself "A Journal For Producers, Workers and Users of Stone, Marble and Granite."  First published in 1888 by the D.H. Ranck Publishing Co., the monthly journal featured a mix of articles about stone markets and new quarry locations, technical information about stone types and machinery, and notes on new projects requiring stone, and pertinent legislation. In addition each issue was filled with advertisements for stone quarrying equipment, provided a list of upcoming contracts involving stone to inform subscribers of potential work, provided an updated list of stone prices, and contained general quarry news items and a “for sale/help wanted” section.
 
 ### Topics and Themes of Analysis
 
@@ -32,5 +32,5 @@ I used basic text analysis techniques to study language around hazards, safety, 
 
 *[Results for this method can be found here](https://alsven.github.io/reswordvec/)*
  
-Details on how I have implemented these methods can be found in the *[Analysis Overview](https://alsven.github.io/methods/)* section of this site.
+Details on how I have implemented these methods can be found in the *[Analysis Methods](https://alsven.github.io/methods/)* section of this site.
 
