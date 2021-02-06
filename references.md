@@ -4,7 +4,6 @@ title: References
 #subtitle: 
 ---
 
-### Historic Research References
 
-### Text Analysis References
+This page will have a list of references.
 

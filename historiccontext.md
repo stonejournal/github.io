@@ -21,12 +21,15 @@ One publication for this industry was [*Stone: An Illustrated Magazine*](journal
 I used basic text analysis techniques to study language around hazards, safety, health, and environmental issues. I wanted to look and see if overall patterns of language around certain keywords changed before and after 1910 when state workers' compensation laws became common. I hoped that by using a variety of techniques that I might be able to see general trends to guide my research in these areas. My final investigations for this project use the following methods of text analysis: 
  
 - **Word frequency over time:** To look at words associated with safety, health, and environmental issues and how their use changes in the journal over time.
+
 *[Results for this method can be found here](https://alsven.github.io/reswordfreq/)*
  
 - **Key words in context:** To determine where words associated with safety, health, and environmental issues appear within the journal and what they are being used to discuss.
+
 *[Results for this method can be found here](https://alsven.github.io/reskeywords/)*
  
 - **Word vector analysis:** To examine groups of words to see what additional words are used in semantically similar contexts to obtain a broader picture of how issues were perceived.
+
 *[Results for this method can be found here](https://alsven.github.io/reswordvec/)*
  
 Details on how I have implemented these methods can be found in the *[Analysis Overview](https://alsven.github.io/methods/)* section of this site.
