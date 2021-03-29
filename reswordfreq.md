@@ -26,11 +26,11 @@ I originally hoped that grouping words in categories would help me look at big-p
 
 ![image](/assets/img/safetycat_lineplot.png)
 
-graph
+![image](/assets/img/smokedustfumes_lineplot.png)
 
 I found graphs of individual word use over time more helpful in seeing trends. Gratifyingly, “safety” was one word that shows a distinct pattern, with a significant spike in usage between 1912 and 1915.
 
-graph
+![image](/assets/img/safety_lineplot.png)
 
 This brings me to the limitations of this approach. While this spike shows that there was indeed an increase in the number of times this word was used in Stone in that period, does this mean that employers were paying more attention to safety in the workplace? Word frequency counts cannot provide the answer. I needed to look at the result of the keywords in context analysis to make sense of what I was seeing in the graphs above. Only by identifying the context the words appear in could I determine that while they are talking about safety much more between 1912 and 1915 it is not typically in the context of workers’ safety or safety within stone quarrying operations. The majority of the time “safety” is used after 1910 is in the context of articles discussing concrete construction.
  
@@ -57,7 +57,10 @@ As noted above, the major limitation of this approach is the lack of context for
 ### Footnotes
 
 [1] Donald Friedman, *Historical Building Construction: Design, Materials & Technology* (New York: W.W. Norton Company, 1995), 105-106.
+
 [2] Donna-Belle Garvin, “The Granite Quarries of Rattlesnake Hill: The Concord, New Hampshire, "Gold Mine." *The Journal of the Society for Industrial Archeology* 20, no. 1/2, IA IN NEW HAMPSHIRE (1994): 62.
+
 [3] Amy E. Slaton, *Reinforced Concrete and the Modernization of American Building, 1900-1930* (Baltimore, MD: Johns Hopkins University Press, 2001), 156.
+
 [4] David Rosner and Gerald E. Markowitz, *Deadly Dust: Silicosis and the Politics of Occupational Disease in Twentieth-Century America* (Princeton, NJ: Princeton University Press, 1991), 38-42.
 
