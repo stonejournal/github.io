@@ -17,7 +17,7 @@ I then looked at several of my key words in these models to see what other words
 
 I appreciated the word vector analysis method for how it provided me with a different window through which to look at the text. Trying to figure out why words appeared as “similar” to my key terms involved close reading of multiple articles over large time periods to tease out relationships that were not always direct. Sometimes, as in the case of “health” described below, I couldn’t adequately explain relationships through article text alone and had to look at the structure of the journal in a new way.
 
-####Safety
+#### Safety
 
 The top ten results for words used in a context most similar to the word “safety” in all issues of Stone are below:
 
