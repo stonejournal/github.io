@@ -19,13 +19,13 @@ I appreciated the word vector analysis method for how it provided me with a diff
 
 #### Safety
 
-The top ten results for words used in a context most similar to the word “safety” in all issues of Stone are below:
+The top ten results for words used in a context most similar to the word “safety” in all issues of *Stone* are below:
 
 Image
 
 The number to the right of each word is its cosine similarity, which is a measure of how close in space the words are. The number will be between 1 and 0. The closer to 1 the value is the more often the word is found in the context of the search term. A much more mathematically-based explanation for this value I found helpful can be found [here](https://paulminogue.com/index.php/2019/09/29/introduction-to-cosine-similarity/).
 
-“Factor” is the word most closely associated with “safety” in Stone. This makes a lot of sense, as a "safety factor" is an engineering term used frequently throughout the text. I was interested to see efficiency and economy here being such related terms. Reading through the articles found in the keyword in context analysis safety is often paired with efficiency, which is borne out in the literature of the “Safety First” movement.[1] This article, “Care in the Quarries” from the March 1917 issue includes the following representative passage:
+“Factor” is the word most closely associated with “safety” in *Stone*. This makes a lot of sense, as a "safety factor" is an engineering term used frequently throughout the text. I was interested to see efficiency and economy here being such related terms. Reading through the articles found in the keyword in context analysis safety is often paired with efficiency, which is borne out in the literature of the “Safety First” movement.[1] This article, “Care in the Quarries” from the March 1917 issue includes the following representative passage:
 
 >The nation-wide campaign for “Safety First” and the turning of attention on the part of manufacturers and producers to efficiency, all tend toward a strenuous effort to reduce the percentage of accidents (201)
 
@@ -37,7 +37,7 @@ Another advertisement for the “Knox System of Blasting Rock” that pairs only
 
 Other words on the list, such as “duplex,” appeared to be strange terms until I ran them through the keyword in context analysis. In the early 1900s Worthington duplex pumps and engines manufactured by New York Safety Power Co. appeared together in several issues in lists of available machinery offered by the Quarrymen’s Machinery Agency. Machinery in general, especially in advertisements, often appears with safety valves, safety switches, and safety breaks, so machine words make sense in the context of safety.
 
-The presence of “cheapness” on the list appears to come largely from the ongoing dialogue in the journal against reinforced concrete. Stone had two major approaches to fighting concrete in its pages. One method, as noted in the section above, was publicizing concrete collapses and defects. The other approach was to stress the “cheapness” of imitation materials. This article, “The Fight Against Substitutes for Stone” from the February 1909 issue, takes the latter approach with the following statement regarding natural stone:
+The presence of “cheapness” on the list appears to come largely from the ongoing dialogue in the journal against reinforced concrete. *Stone* had two major approaches to fighting concrete in its pages. One method, as noted in the section above, was publicizing concrete collapses and defects. The other approach was to stress the “cheapness” of imitation materials. This article, “The Fight Against Substitutes for *Stone*” from the February 1909 issue, takes the latter approach with the following statement regarding natural stone:
 
 >Through this medium found expression the choicest fancies and the full genius of Phidias and Praxiteles, of Vitruvius, of Michelangelo, of Bramante and Brunelleschi, of Inigo Jones and Christopher Wren, of Thorwaldsen and Canova, and the innumerable host of architects and sculptors whose works have made a priceless heritage for man. It may be asked, then, what has such a material to fear in competition with one that is mixed with shovel and hoe and poured into wooden moulds. In the ordinary condition of affairs, nothing. But potent influences have been at work. There has been insistent demand of the unthinking public for cheapness and haste, rather than for artistic effect, safety and durability. (402)
 
@@ -45,7 +45,7 @@ I also produced some scatterplot visualizations of these semantic relationships.
 
 Image
 
-On the upper right of the graph are a group of words (like “duplex,” “winches,” and “brake”) associated with machinery. Much of the lower right and center is populated with words that are related to explosives (“pop,” “detonation,” “electrical,” “mounting,” “firing” and “premature” among others). At the top left is a group of words representing the “efficiency and economy” dialogue. Words at the lower left and center I believe come from the anti-concrete dialogue around safety in Stone – both “permanence” and “stability” for the superior stone product and “cheapness” and “rapidity” for the inferior concrete product. “Menace” is present on the graph from the concrete-as-dangerous material side of that discussion.
+On the upper right of the graph are a group of words (like “duplex,” “winches,” and “brake”) associated with machinery. Much of the lower right and center is populated with words that are related to explosives (“pop,” “detonation,” “electrical,” “mounting,” “firing” and “premature” among others). At the top left is a group of words representing the “efficiency and economy” dialogue. Words at the lower left and center I believe come from the anti-concrete dialogue around safety in *Stone* – both “permanence” and “stability” for the superior stone product and “cheapness” and “rapidity” for the inferior concrete product. “Menace” is present on the graph from the concrete-as-dangerous material side of that discussion.
 
 The smaller 1888-1910 and 1911-1922 models have small differences in the words most closely associated with safety over time, but in general are quite similar. Of the top ten terms closely associated with safety on the 1888-1910 list five are explosives-related. These words include “Exploder” (the top result), “maintaining” (#3), “firing” (#4) “energy” (#9) and “dynamo” (#10). Vibration is the second most similar result, a word I believe is reflective of the articles that discuss the safety of the stone product itself – how to protect stone from damage during the extraction process, and one often tied to explosives. Five of the top ten terms from the 1911-1922 model’s list of most similar terms also come from explosives. “Efficiency” (#3) and “Economy” (#4) are both on this list as well and are not present on the 1888-1910 list.
 
@@ -67,7 +67,7 @@ Words in the 1888-1910 corpus associated with concrete are most often related to
 
 Image
 
-The 1911-1922 model shows how thoroughly “concrete-as-dangerous-material” dialogue has taken over in reference to concrete in the pages of Stone by 1911. Most of the words in the center and right-hand side of the graph are disaster or defect-related words. The “concrete-as-aesthetically-inferior” side of the discussion is also present at the upper right, with words such as “imitation” permanence” and “shams.” Terra cotta, another material that competed with natural stone in this period and is also present in this list of related terms, near the word “artificial.”
+The 1911-1922 model shows how thoroughly “concrete-as-dangerous-material” dialogue has taken over in reference to concrete in the pages of *Stone* by 1911. Most of the words in the center and right-hand side of the graph are disaster or defect-related words. The “concrete-as-aesthetically-inferior” side of the discussion is also present at the upper right, with words such as “imitation” permanence” and “shams.” Terra cotta, another material that competed with natural stone in this period and is also present in this list of related terms, near the word “artificial.”
 
 #### Health and Environment
 
