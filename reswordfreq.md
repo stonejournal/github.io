@@ -38,13 +38,13 @@ Reinforced concrete was a novel and experimental building material in the late 1
  
 The most active period of Stone’s anti-concrete crusade is between 1909 and 1914. After 1914 anti-concrete articles and reports of concrete disasters continue to appear in the journal, but not with the frequency found during this period. Anti-concrete articles contribute to trends in several of the other word counts, particularly for words referring to hazardous conditions which also peak in the 1909-1914 period.
 
-graph
+![image](/assets/img/disasterrelated_lineplot.png)
 
 Word frequency over time did pull out a few other patterns that could be confirmed through reading the articles found in the keyword in context exercise. “Negligence” and “Negligent” as used in reference to accidents caused by worker negligence or negligent workers appear more frequently in the early issues of the journal. After the 1910s those terms rarely appear, and when they do it is often in reference to concrete “advocates.” “Compensation” does not appear frequently until after 1909 and is usually found in the context of articles on the effects of workmen’s compensation laws.
 
-graph
+![image](/assets/img/negligent_lineplot.png)
 
-graph
+![image](/assets/img/compensation_lineplot.png)
 
 Words on my lists of health and environment keywords did not show many recognizable patterns. I was hoping I would see more instances of “dust” and “lungs” on my health list, but I think the digitized portion of the journal is just too early in the time range. Historic literature indicates that silicosis was only beginning to enter public consciousness in the late 1910s and 1920s[4] and I only have digitized issues through 1922. Terms associated with silicosis such as “phthisis” and “consumption” appear only infrequently. Environment-related words on my list had low in numbers overall and did not have any patterns I could identify.
  
