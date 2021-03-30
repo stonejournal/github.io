@@ -1,1 +1,1 @@
-This repository is the home of a text analysis project that examines issues of safety, health, and the environment in the pages of Stone magazine that has been digitized by HathiTrust from 1888-1922. The site uses the Beautiful Jekyll theme (https://beautifuljekyll.com/)
+This repository is the home of a text analysis project that examines issues of safety, health, and the environment in the pages of Stone magazine (digitized by HathiTrust from 1888-1922). The site uses the Beautiful Jekyll theme (https://beautifuljekyll.com/)
