@@ -16,8 +16,12 @@ Baker, Paul. *Using Corpora to Analyze Gender*. London: Bloomsbury, 2014.
 Bale, Anthony. "Medicine in the Industrial Battle: Early Workers' Compensation." *Social Science & Medicine* 28, no. 11 (1989): 1113–20. https://doi.org/10.1016/0277-9536(89)90003-8.
 
 Bennett, Dianne, and William Graebner. "Safety First: Slogan and Symbol of the Industrial Safety Movement." *Journal of the Illinois State Historical Society* 68, no. 3 ( June 1975): 243-256. https://www.jstor.org/stable/40191162
+
+Bowles, Oliver. *The Stone Industries: Dimension Stone, Crushed Stone, Geology, Technology, Distribution, Utilization*. New York: McGraw-Hill Book Company, Inc., 1939.
  
 Brown, Phil. *Toxic Exposures: Contested Illnesses and the Environmental Health Movement*. New York: Columbia University Press, 2007.
+
+Burke, Gillian and Peter Richardson. “The Profits of Death: A Comparative Study of Miners’ Phthisis in Cornwall and the Transvaal, 1876-1918,” *Journal of Southern African Studies* 4, no. 2 (1978): 147–171. https://doi.org/10.1080/03057077808707983.
 
 Burnham, John C. "Why Did the Infants and Toddlers Die? Shifts in Americans' Ideas of Responsibility for Accidents: From Blaming Mom to Engineering." *Journal of Social History* 29, no. 4 (Summer, 1996): 817-837. https://www.jstor.org/stable/3788667
  
@@ -57,6 +61,8 @@ LeCain, Timothy. *Mass Destruction: The Men and Giant Mines that Wired America a
 
 McEvoy, Arthur F. "Working Environments: An Ecological Approach to Industrial Health and Safety." *Technology and Culture* 36, no. 2 (1995): S145–73. https://doi.org/10.2307/3106693.
 
+McKee, Harley J. "Early Ways of Quarrying and Working Stone in the United States." *Bulletin of the Association for Preservation Technology* 3, no. 1, (1971): 44-58.
+
 McKee, Harley J. *Introduction to Early American Masonry: Stone, Brick, Mortar and Plaster*. New York: The Association for Preservation Technology International, 2017.
 
 Minogue, Paul. "An Introduction to Cosine Similarity and Sentence Vectorisation." Paul Minogue: A Site Dedicated to Data Science Tutorials and Discussions (blog), September 29, 2019. [https://paulminogue.com/index.php/2019/09/29/introduction-to-cosine-similarity/](https://paulminogue.com/index.php/2019/09/29/introduction-to-cosine-similarity/)
@@ -83,7 +89,8 @@ Slaton, Amy E. *Reinforced Concrete and the Modernization of American Building, 
 
 Smith, Duane A. *Mining America: The Industry and the Environment, 1800-1980*. Niwot, CO: University Press of Colorado, 1993.
 
-TensorFlow. "Vector Representations of Words," [https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/refs/heads/0.6.0/tensorflow/g3doc/tutorials/word2vec/index.md.](https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/refs/heads/0.6.0/tensorflow/g3doc/tutorials/word2vec/index.md)
+TensorFlow. "Vector Representations of Words," [https://chromium.googlesource.com/external/github.com/tensorflow/
+tensorflow/+/refs/heads/0.6.0/tensorflow/g3doc/tutorials/word2vec/index.md.](https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/refs/heads/0.6.0/tensorflow/g3doc/tutorials/word2vec/index.md)
 
 Tone, Andrea. *The Business of Benevolence: Industrial Paternalism in Progressive America*. Ithaca, NY: Cornell University Press, 1997.
 
@@ -92,5 +99,7 @@ TutorialsPoint. "Gensim - Introduction," and "Gensim - Vector & Model."  [https:
 Underwood, Ted. "Seven Ways Humanists Are Using Computers to Understand Text." The Stone and the Shell, June 4, 2015, [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 
 Vetal, Don. "NLP Research Lab Part 2: Skip-Gram Architecture Overview." District Data Labs (blog) [https://www.districtdatalabs.com/nlp-research-lab-part-2-skip-gram-architecture-overview](https://www.districtdatalabs.com/nlp-research-lab-part-2-skip-gram-architecture-overview)
+
+Note: While I've listed the individual works I used for this report above, I would be remiss to not draw people's attention to the amazing variety of resources on quarries and quarrying compiled by Peggy and George Perazzo at the [Stone Quarries and Beyond](http://quarriesandbeyond.org/) website. I think this site is where I first found out about the existence of *Stone: An Illustrated Magazine*.
 
 
