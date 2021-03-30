@@ -79,7 +79,7 @@ I found the Keywords in Context method particularly successful in how it located
 
 [1] Dianne Bennett and William Graebner, "Safety First: Slogan and Symbol of the Industrial Safety Movement," *Journal of the Illinois State Historical Society* 68, no. 3 ( June 1975), 254.
 
-[2] Image Source: *Stone: An Illustrated Magazine* 38 (April 1917), 219. [https://babel.hathitrust.org/cgi/pt?id=nyp.33433069065880&view=1up&seq=5](https://babel.hathitrust.org/cgi/pt?id=nyp.33433069065880&view=1up&seq=5)
+[2] Image Source: [*Stone: An Illustrated Magazine* 38 (April 1917)](https://babel.hathitrust.org/cgi/pt?id=nyp.33433069065880&view=1up&seq=5), 219.
 
 [3] David Rosner and Gerald E. Markowitz, *Deadly Dust: Silicosis and the Politics of Occupational Disease in Twentieth-Century America* (Princeton, NJ: Princeton University Press, 1991), 31.
 
