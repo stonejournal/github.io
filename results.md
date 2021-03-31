@@ -11,9 +11,9 @@ Since the results from my exploration are intimately tied into the methods used 
 
 **[Word Frequency Results](https://stonejournal.github.io/reswordfreq/)**
 
-**[Keywords in Context Results](https://stonejournal.github.io/reskeywords/)**
+**[Keyword in Context Results](https://stonejournal.github.io/reskeywords/)**
 
-**[Word Vectors Results](https://stonejournal.github.io/reswordvec/)**
+**[Word Vector Results](https://stonejournal.github.io/reswordvec/)**
 
 
 Each of these sections is designed as a stand-alone essay. Together I hope they provide a view into some of the discussion happening around safety, health, and the environment in the pages of *Stone: An Illustrated Magazine.*
