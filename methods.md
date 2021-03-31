@@ -24,7 +24,7 @@ As part of this work I made lists of words to use as "safety," "health," and "en
 
 The Python code for this process opens each document, converts the text to lowercase, uses NLTK tools to split the text into individual words (with punctuation separated from words) and searches the list of individual words for matches to each word provided in the keyword list. The output of this code is count of how many instances of each of these words appears within each issue. I entered the final counts into an Excel spreadsheet (using the OpenRefine program to tidy up the data). In the spreadsheet I normalized the word counts to their appearance per 1000 words to accommodate the fact that not all the issues have the same number of words. This allows numbers of words in each issue to be compared directly to other issues. I then converted the spreadsheets to .csv files that I re-loaded into python to make visualizations of word use over time using Python's "Matplotlib" and "Seaborn" visualization packages. 
 
-*[Results for this method can be found here](https://alsven.github.io/reswordfreq/)*
+*[Results for this method can be found here](https://stonejournal.github.io/reswordfreq/)*
 
 **Keywords In Context.**
 For my Keyword in Context text analysis the Python code uses NLTK's "concordance" function. This function allows me to search the text for a specific word, and then returns each instance of that word along with approximately 30 characters that appear on either side of the word. In the code I wrote for this exercise I processed the text to be all lowercase, but did not remove strange characters or punctuation -- NLTK's built-in tokenizing function separates punctuation from words so they do not affect the word search process.
@@ -33,7 +33,7 @@ The word frequency over time process was invaluable to informing me which keywor
 
 Keyword in context analysis also proved essential for interpreting the results of the word vector analysis. I often ran the "similar" words produced in the word vector analysis through my keyword in context program to see why they might be turning up in similar contexts to my target word.
 
-*[Results for this method can be found here](https://alsven.github.io/reskeywords/)*
+*[Results for this method can be found here](https://stonejournal.github.io/reskeywords/)*
 
 **Word Vector Analysis.**
 For this portion of the project I trained three Word2Vec models using the Gensim ("generate similar") natural language processing library in Python. As noted above, the transformation of words in a document to spatial relationships in Word2Vec models allows you to express relationships between words based on how often they co-occur (or “are embedded nearby each other”). Querying the models allows for identifying semantic relationships between a keyword and other words that are used within similar contexts.
@@ -42,4 +42,4 @@ For the first model I uploaded all 266 texts (approximately 52,125,670 words tot
 
 Because I was interested to see if language around safety changed over time I decided to perform the same keyword investigations on two smaller models. One model consisted of issues from 1888 through 1910, and the other consisting of all issues from 1911- 1922. Due to my missing issues these two models were roughly the same size -- about 20 million "words" each.
 
-*[Results for this method can be found here](https://alsven.github.io/reswordvec/)*
+*[Results for this method can be found here](https://stonejournal.github.io/reswordvec/)*
