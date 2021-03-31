@@ -106,7 +106,7 @@ I'd be interested in experimenting more with word embeddings -- I'd like to look
 
 [2] “Care in the Quarries,” *Stone* 38, No. 3 (March 1917), 201.
 
-[3] Image Source: [*Stone* 38 (April 1914)](https://babel.hathitrust.org/cgi/pt?id=nyp.33433069065914&view=1up&seq=8), 213.
+[3] Image Source: *Stone* 38, No. 4 (April 1914), 213.
 
 [4]“The Fight Against Substitutes for Stone,” *Stone* 29, No. 9 (February 1909), 402.
 
