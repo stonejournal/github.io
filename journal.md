@@ -23,11 +23,11 @@ These articles provide details for work such as arch construction, monument desi
 
 - **Reference statistics and stone testing information.**
 
-- A **Contract News.** A section with information on upcoming projects that might be looking for stone suppliers.
+- **Contract News.** A section with information on upcoming projects that might be looking for stone suppliers.
 
 - **Current stone price lists.**
 
-- **Other** Not mentioned specifically, but present in the journal, are original short stories and poems along with reviews of recently published books that might be of interest to readers. The last few pages of each issue consisted of a "for sale/help wanted" section.
+- **Other:** Not mentioned specifically, but present in the journal, are original short stories and poems along with reviews of recently published books that might be of interest to readers. The last few pages of each issue consisted of a "for sale/help wanted" section.
 
 While never explicitly mentioning an affiliation with any union or association, the journal's article topics, advertisements, and editorials suggest it was most closely aligned with various stone trade dealer and contractor associations. Early issues list associations that "officially recognized and commended" the magazine, including the National Marble and Granite Manufacturers' and Dealers Association of the United States and Canada, The Retail and Wholesale Marble Dealers' Association of New England and the Provinces, and the Marble and Granite Dealers' Association of Nebraska. In the 1920s the journal began running a section dedicated to essays from the International Cut Stone Contractors' and Quarrymen's Association, Inc., indicating a close relationship with that group. If not directly sponsored by these trade associations, the journal certainly reflects their viewpoint, being primarily dedicated to the marketing of stone as a product.
  
