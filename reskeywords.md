@@ -91,7 +91,7 @@ I found the Keywords in Context method particularly successful in how it located
 
 [7] “Causes of Quarry Accidents,” *Stone* 36, No. 10 (October 1915), 538.
 
-[8] Image Source: [*Stone* 38 (April 1917)](https://babel.hathitrust.org/cgi/pt?id=nyp.33433069065880&view=1up&seq=5), 219.
+[8] Image Source: *Stone* 38, No. 4 (April 1917), 219.
 
 [9] David Rosner and Gerald E. Markowitz, *Deadly Dust: Silicosis and the Politics of Occupational Disease in Twentieth-Century America* (Princeton, NJ: Princeton University Press, 1991), 31.
 
