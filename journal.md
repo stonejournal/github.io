@@ -17,9 +17,9 @@ The first (May 1888) issue laid out the kind of material that that would be publ
 - **Designs in any detail of stone working.**
 These articles provide details for work such as arch construction, monument designs, and decorative cutting patterns.
 
-- **News matter which would apply to any branch in our field."** This includes regulatory information; news about new techniques or machinery; items relating to labor disputes (almost always as a negative occurrence); announcements about new quarry openings, new stone products, and markets; and obituaries for important figures in the industry.
+- **News matter which would apply to any branch in our field.** This includes regulatory information; news about new techniques or machinery; items relating to labor disputes (almost always as a negative occurrence); announcements about new quarry openings, new stone products, and markets; and obituaries for important figures in the industry.
 
-- **General correspondence and short news items.** These wer provided by subscribers and published in a monthly "Notes from Quarry and Shop" section.
+- **General correspondence and short news items.** These were provided by subscribers and published in a monthly "Notes from Quarry and Shop" section.
 
 - **Reference statistics and stone testing information.**
 
