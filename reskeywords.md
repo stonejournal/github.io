@@ -21,7 +21,7 @@ As can be seen in the example above, hazard-related words such as "injuries," ac
  
 Articles pulled up through keyword in context analysis show that discussions of workplace safety do appear throughout the journal, particularly around the use of explosives in quarry work. There is also a great deal of discussion around safety issues in steam-powered equipment in the 1890s and early 1900s. After 1910 safety frequently appears as part of the phrase "Safety First," a slogan frequently used by safety advocates in the Progressive Era who focused on safety improvements to mechanical equipment and worker safety education that became a generic slogan for safety initiatives nationwide.[2]
  
-Through close reading of articles flagged during my review of the keyword in context data I was indeed able to see that there are changes in the language used over time in articles about workplace safety. For instance, in an article titled "Risks in Quarrying" from the November 1897 issues blames workplace accidents on careless employees. For example, when the article discusses explosives:
+Through close reading of articles flagged during my review of the keyword in context data I was indeed able to see that there are changes in the language used over time in articles about workplace safety. For instance, an article titled "Risks in Quarrying" from the November 1897 issues blames workplace accidents on careless employees. For example, when the article discusses explosives:
  
 >If there is anything to be feared in quarrying operations it might be supposed to be blasting; but there is a class of men – and we imagine, hardly a quarry is without representatives of them – who are so foolhardy in dealing with powder as to appear irrational. They cannot be convinced that the force in powder may be latent. If it will not "go off" they imagine it can be tamped with impunity, and it does not always happen that they are made cautious by an accident.[3]
  
@@ -29,11 +29,11 @@ The article ends by stating that safety regulations are unnecessary and potentia
  
 >If operations in quarries were carried out by little girls, it would be prudent to watch over them; but as with men there are few risks, we can only consider the recommendations as exemplifying Lord Melbourne's apprehensions about the danger of a policy which insisted on "something being done" at any cost.[4]
  
-Other articles call for more safety at the quarry, including this editorial titled "Criminal Accidents" from the March 1889 issue which bemoans the lack of safety measures for workers overall, and particularly in quarries, in the United States:
+In contrast to the article quoted above, other articles in the journal call for more safety at the quarry, including this editorial titled "Criminal Accidents" from the March 1889 issue which bemoans the lack of safety measures for workers overall, and particularly in quarries, in the United States:
  
 >We say that it is the apathy with which a thing of this kind is received that is the most discouraging feature of the whole business. Slap a man in the face and you are fined for it in the police court; slap a man's head off with a carelessly contrived piece of machinery, or kill him in a building and you get the sympathy of the people for having had such an accident occur on the premises. This is a large world and the more we look at it the more it swells.[5]
  
-For comparison the article "Precautions Against Quarry Accidents" from the August 1914 issue of *Stone* ends with the following statement:
+For comparison the article "Precautions Against Quarry Accidents" from the August 1914 issue of *Stone* ends with the following statement with safety included in the concerns of management:
  
 >Every quarry has its own individual problems that must be studied with the greatest care and attention if accidents are to be reduced to the lowest possible minimum. Even the straight hoisting of a heavy block from the quarry pit may entail disaster. The slipping of a chain or sling may bring a sudden strain on a derrick which it is unable to withstand. Even the most rigid scrutiny of apparatus cannot forestall all disaster. In such cases dependence must be placed upon wise and careful management. Stringent regulations that will keep workmen out of the danger zones as much as possible, may seem costly precautions for the moment, but they will pay in the long run.[6]
  
