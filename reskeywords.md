@@ -67,15 +67,19 @@ Another example is this miscellaneous news item from the August 1916 issue:
  
 >Workmen are now engaged in cleaning the magnificent new postoffice at Denver, built of Colorado marble and completed only a year ago. It is said that the air of Denver is so impregnated with smoke that the stone becomes begrimed almost as soon as the cleaning is completed.[15]
  
-*Stone* also discusses environmental issues in the context of quarry locations and scenic beauty vs. industrialization. For instance, an article from the September 1903 issue titled "The Warfare Against Quarries" summarizes the conflict:
+*Stone* also discusses environmental issues in the context of quarry locations and scenic beauty vs. the business of quarrying. For instance, an article from the September 1903 issue titled "The Warfare Against Quarries" summarizes the conflict:
  
 >It occasionally happens that a quarry is opened in the extreme outskirts of a city or town.... But gradually a few houses go up around the quarry or public driveways are extended in the neighborhood. Then begins the cry that the quarry is a nuisance and an eyesore, if not a direct menace to public health and life. The law-makers frame ordinances that restrict the operations of the quarry, and the owner may as well take warning at once and close down and move away, for this will be the result in the end, fight as bravely as the quarryman may.
 
 >But when the stone man started his business, he may have avoided the cities and settlements and gone far into the wilds. Perhaps he establishes himself at the foot of some bold cliff or on a solitary hill. Presently along will come some poetic soul and bewail the fact that mercenary men are defacing a beautiful landscape. Or it may be than an antiquarian discovers that some forgotten hero once ate an *al fresco* dinner where now the rock drill and the pick are digging into the bowels of the earth. This, of course, is a sacrilegious desecration of an historic spot.[16]
  
-The article continues by discussing *Stone*'s mixed feelings regarding the battle over quarrying of the Palisades in New York/New Jersey:
+The article continues with an examination of *Stone's* mixed feelings regarding the battle over quarrying of the Palisades in New York/New Jersey:
 
 >The organized campaign that was waged against the quarrymen along the Palisades is familiar to almost everybody. Little objection can be urged to this because the Palisades are one of the great wonders of the world and should be preserved at any cost. The injustice was in the fact that few people seemed to think that the quarrymen were entitled to an honest compensation for the destruction of a legitimate business, even if the cessation of the work was demanded on the grounds of public policy. [17]
+
+"Quarrying on a Noted Landmark" from the June 1907 issue discusses a similar conflict around the potential opening of a large-scale quarrying operation on Alisa Craig, an island on the Scottish coast, also contains mixed language on the value of scenic beauty and its relationship to economic opportunity.
+
+>There is room for employing 1,000 men on the island, and it is understood that operations will be begun at an early date. It is said, however, these operations will be confined to the south and southeast faces, and not more than fifty men are to be employed. A long time would be necessary before sufficient rock would be removed to make the solid mass of Alisa Craig seem as deficient. Lovers of the picturesque are consoling themselves with the belief that the operations will be advantageous, for there will be more opportunities for a play of light and shade. [18]
 
 ### Conclusions and Areas for Further Research
 
@@ -116,3 +120,5 @@ I found the keywords in context method particularly successful in efficiently lo
 [16] “The Warfare Against Quarries,” *Stone* 26, No. 5 (September 1903), 457.
 
 [17] Ibid.
+
+[18] "Quarrying on a Noted Landmark," *Stone* 28, No
