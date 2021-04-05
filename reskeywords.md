@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Keywords in Context
+title: Keyword in Context
 #subtitle: 
 ---
 
 ### Method Overview
 
-Keywords in context is a very straightforward form of text analysis. I used Python to locate each instance of a word in the texts, and then pulled out that word with approximately thirty characters on either side. This process provides a glimpse of how the word is being used within the text.
+Keyword in context is a very straightforward form of text analysis. I used Python to locate each instance of a word in the texts, and then pulled out that word with approximately thirty characters on either side. This process provides a glimpse of how the word is being used within the text.
 
 ### Review of Data
 

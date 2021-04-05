@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Word Frequency Results
+title: Word Frequency
 #subtitle: 
 ---
 

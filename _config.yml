@@ -17,15 +17,15 @@ author: Alicia Svenson
 
 navbar-links:
   
-  Site Index:
-    - Historic Context: "historiccontext"
-    - Stone Journal: "journal"
-    - Analysis Methods: "methods"
-    - Analysis Results: "results"
-        subfolderitems:
-            - Keyword in Context: "reskeywords"
-    - References: "references"
+  Historic Context: "historiccontext"
+  Stone Journal: "journal"
+  Analysis Methods: "methods"
+  Analysis Results:
+    - Word Frequency: "reswordfreq"
+    - Keyword in Context: "reskeywords"
+    - Word Vector Analysis: "reswordvec"
         
+  References: "references"
   About: "about"
 
 # --- Logo --- #
