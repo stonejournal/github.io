@@ -53,13 +53,13 @@ I used basic text analysis techniques to study language around hazards, safety, 
  
 - **Key words in context:** To determine where words associated with safety, health, and environmental issues appear within the journal and what they are being used to discuss.
 
-*[Results for this method can be found here](https://alsven.github.io/reskeywords/)*
+*[Results for this method can be found here](https://stonejournal.github.io/reskeywords/)*
  
 - **Word vector analysis:** To examine groups of words to determine what additional words are used in semantically similar contexts to obtain a broader picture of how issues are perceived.
 
-*[Results for this method can be found here](https://alsven.github.io/reswordvec/)*
+*[Results for this method can be found here](https://stonejournal.github.io/reswordvec/)*
  
-Details on how I have implemented these methods can be found in the *[Analysis Methods](https://alsven.github.io/methods/)* section of this site.
+Details on how I have implemented these methods can be found in the *[Analysis Methods](https://stonejournal.github.io/methods/)* section of this site.
 
 ### Footnotes
 
