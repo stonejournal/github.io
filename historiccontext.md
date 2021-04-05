@@ -16,11 +16,25 @@ Quarrying prior to the 1800s was primarily a local affair, where stone was remov
 
 While some quarrying took place underground, most quarries were either “shelf” quarries, where the stone was removed from a side of the hill, or “pit” quarries, where the stone was removed from below grade.[6] Dimension stone was quarried through the use of specialized cutting machines and wedges with methods specific to the stone being quarried, and then shaped to its final form within stone sheds and finishing shops with additional machinery. Pneumatic (air-driven) tools came into general use in these shops by the late 1890s. Sandblasting and jackhammers were added in the 1920s.[7] Explosives were not frequently used in the production of dimension stone, as they could damage the final product, but were often used to produce stone fragments for riprap or rubble, crushed stone and manufacturing stone products.[8]
 
+<p align="center">
+<img width="590" height="447" src="/assets/img/knoxville_loc.jpeg">
+</p>
+<p align="center">
+Quarry Operations in Tennessee c. 1903 [9]
+</p>
+
 ### Dangers in Stone Quarrying
 
-Dangers in the work of stone quarrying were described within the pages of *Stone* itself. “Stone-Quarry Investigations” from the July 1917 issue summarized some frequent causes of accidents within the industry, including “boiler explosions, falls of derricks, and accidents due to insufficiently protected rotating machinery, electric wires, and quarry stairs and ladders … improper handling, loading, and firing of explosives, and dangerous methods of handling rock or overburden.”[9] In addition to falls, explosions, and rock slides, the stone industry faced a serious health hazard. Silicosis is an occupational lung disease caused by exposure to fine particles of crystalline silica dust, present in almost all sands and rocks. While quarrying and mining have been recognized throughout history as occupations with a high risk of respiratory disease, it took a long time to identify the exact cause due to its complicated relationship with tuberculosis. Lung damage from silica predisposes victims to later contract bacterial tuberculosis.[10] Silicosis did not affect all portions of the stone industry equally, as it is dependent on the composition of the stone being ground into dust. It was particularly severe in the granite industry.[11] The word “silicosis” itself did not come into general use until the late 1910s, and is not present in the pages of *Stone*, which instead refers to conditions such as “stone consumption,” “miner’s consumption” and “phthisis.”
+Dangers in the work of stone quarrying were described within the pages of *Stone* itself. “Stone-Quarry Investigations” from the July 1917 issue summarized some frequent causes of accidents within the industry, including “boiler explosions, falls of derricks, and accidents due to insufficiently protected rotating machinery, electric wires, and quarry stairs and ladders … improper handling, loading, and firing of explosives, and dangerous methods of handling rock or overburden.”[10] In addition to falls, explosions, and rock slides, the stone industry faced a serious health hazard. Silicosis is an occupational lung disease caused by exposure to fine particles of crystalline silica dust, present in almost all sands and rocks. While quarrying and mining have been recognized throughout history as occupations with a high risk of respiratory disease, it took a long time to identify the exact cause due to its complicated relationship with tuberculosis. Lung damage from silica predisposes victims to later contract bacterial tuberculosis.[11] Silicosis did not affect all portions of the stone industry equally, as it is dependent on the composition of the stone being ground into dust. It was particularly severe in the granite industry.[12] The word “silicosis” itself did not come into general use until the late 1910s, and is not present in the pages of *Stone*, which instead refers to conditions such as “stone consumption,” “miner’s consumption” and “phthisis.”
 
-While not typically as destructive as most mineral mining operations, quarrying does dramatically alter the landscape, leaving behind permanent scars.[12] Quarry operations also produced air-borne dust and smoke that affected wide areas and nearby populations.[13] Articles in *Stone* described conflicts between quarries and their surrounding neighborhoods around health and environmental issues.
+While not typically as destructive as most mineral mining operations, quarrying does dramatically alter the landscape, leaving behind permanent scars.[13] Quarry operations also produced air-borne dust and smoke that affected wide areas and nearby populations.[14] Articles in *Stone* described conflicts between quarries and their surrounding neighborhoods around health and environmental issues.
+
+<p align="center">
+<img width="590" height="447" src="/assets/img/firstaid_loc.jpeg">
+</p>
+<p align="center">
+"First Aid in the Quarry," American Red Cross Photo c. 1920 [15]
+</p>
 
 ### Topics and Themes of Analysis
 
@@ -58,13 +72,17 @@ Details on how I have implemented these methods can be found in the *[Analysis M
 
 [8] “Quarry Methods,” *Stone* 1, No. 5 (September 1888), 114.
 
-[9]“Stone-Quarry Investigations,” *Stone* 38, No. 7 (July 1917), 363.
+[9] Detroit Publishing Co., Republic Marble Quarry near Knoxville, Tenn., ca. 1903. Photograph. https://www.loc.gov/item/2016803208/.
 
-[10] Gillian Burke and Peter Richardson, “The Profits of Death: A Comparative Study of Miners’ Phthisis in Cornwall and the Transvaal, 1876-1918,” *Journal of Southern African Studies* 4, No. 2 (1978), 151.
+[10]"Stone-Quarry Investigations," *Stone* 38, No. 7 (July 1917), 363.
 
-[11] Paul-André Rosental, *Silicosis: A World History* (Baltimore, Maryland: Johns Hopkins University Press, 2017), 48.
+[11] Gillian Burke and Peter Richardson, “The Profits of Death: A Comparative Study of Miners’ Phthisis in Cornwall and the Transvaal, 1876-1918,” *Journal of Southern African Studies* 4, No. 2 (1978), 151.
 
-[12]Sebastian Haumann, "Ubiquitous Mining: The Spatial Patterns of Limestone Quarrying in Late Nineteenth Century Rhineland." *RCC Perspectives*, No. 10, Mining in Central Europe: Perspectives from Environmental History (2012), 59.
+[12] Paul-André Rosental, *Silicosis: A World History* (Baltimore, Maryland: Johns Hopkins University Press, 2017), 48.
 
-[13] Michael Austin, "Carving Out a Sense of Place: The Making of the Marble Valley and the Marble City of Vermont," (PhD diss., University of New Hampshire, 2002), 106.
+[13] Sebastian Haumann, "Ubiquitous Mining: The Spatial Patterns of Limestone Quarrying in Late Nineteenth Century Rhineland." *RCC Perspectives*, No. 10, Mining in Central Europe: Perspectives from Environmental History (2012), 59.
+
+[14] Michael Austin, "Carving Out a Sense of Place: The Making of the Marble Valley and the Marble City of Vermont," (PhD diss., University of New Hampshire, 2002), 106.
+
+[15] "First Aid in the Quarry," American National Red Cross photograph collection, 1920. Photograph. https://www.loc.gov/item/2017673320/.
 
