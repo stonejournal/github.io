@@ -31,7 +31,9 @@ The number to the right of each word is its cosine similarity, which is a measur
 
 What I believe is tying efficiency and economy most strongly to safety, however, appears to be advertisements. The three words appear together in an advertisement for Rack-A-Rock blasting powder which appeared in multiple issues throughout the 1910s (image below).[3] This advertisement stated "You need Rack-A-Rock for your work on the grounds of Safety, Economy and Efficiency."
 
-![image](/assets/img/rackarock.png)
+<p align="center">
+<img width="272" height="340" src="/assets/img/rackarock.png">
+</p>
 
 Another advertisement for the "Knox System of Blasting Rock" that pairs only safety and economy appears frequently in the 1800s. The repeated presence of the Knox system's catchphrase: "For Speed, Safety, Simplicity and Economy It Has No Rival" might help explain why "economy" is slightly more closely matched to "safety" than "efficiency." 
 
