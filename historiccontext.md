@@ -9,7 +9,7 @@ title: Historic Context
 Historians have produced several studies on changes in workplace safety culture from the beginning of the 20th Century and the legislative, legal, and social pressures that shifted the view of workplace accidents from something that was an inevitable byproduct of dangerous work to a failure of management initiatives. As the country industrialized throughout the 1800s, new machinery and processes were introduced that made workplaces increasingly dangerous. Government commissions began to examine safety within certain industries, and attention was brought to the legal framework of accident compensation. In 1900-1910 states began to enact workers' compensation laws, which required employers to compensate workers or their families for injury or death on the job regardless of fault, streamlining the compensation process for both worker and employer. This led to the increasing presence of safety programs within the workplace to reduce accidents as part of management procedure. Some industries, particularly manufacturing, were quicker to implement safety programs than others. Environmental regulations were slower to develop than safety legislation, with the first federal protective legislation not enacted until the 1940s. However, the first conservation groups were established in the late 1800s, and an early battle in the environmental movement involved stopping stone quarrying activities along the Palisades in New Jersey and the creation of the Palisades Interstate Park in 1909.
 
 <p align="center">
-<img width="590" height="447" src="/assets/img/channeling_loc.jpeg">
+<img width="346" height="450" src="/assets/img/channeling_loc.jpeg">
 </p>
 <p align="center">
 Quarry Operations in Concord, New Hampshire c. 1908 [1]
