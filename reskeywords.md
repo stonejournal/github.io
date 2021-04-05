@@ -121,4 +121,4 @@ I found the keywords in context method particularly successful in efficiently lo
 
 [17] Ibid.
 
-[18] "Quarrying on a Noted Landmark," *Stone* 28, No
+[18] "Quarrying on a Noted Landmark," *Stone* 28, No. 1 (June 1907), 141.
