@@ -6,7 +6,7 @@ title: About This Project
 
 #### Alicia Svenson
 
-I am an architect and a student in the MA in Public History program at Northeastern University. Prior to resuming my studies I worked as a preservation specialist for architectural design and historic preservation consulting firms in New York and Boston, where I learned to appreciate stone in all its forms. This research project was designed as a final project for Northeastern's Graduate Certificate in Digital Humanities.
+I am an architect and a student in the MA in Public History program at Northeastern University. Prior to starting the MA program I worked as a preservation specialist for architectural design and historic preservation consulting firms in New York and Boston, where I learned to appreciate stone in all its forms. This research project was designed as a final project for Northeastern's Graduate Certificate in Digital Humanities.
 
 #### Project Acknowledgements
 
