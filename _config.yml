@@ -22,6 +22,8 @@ navbar-links:
     - Stone Journal: "journal"
     - Analysis Methods: "methods"
     - Analysis Results: "results"
+        subfolderitems:
+            - Keyword in Context: "reskeywords"
     - References: "references"
         
   About: "about"
