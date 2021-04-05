@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Word Vector Analysis
+title: Word Vector Analysis Results
 #subtitle: 
 ---
 
