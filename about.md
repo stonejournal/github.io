@@ -20,6 +20,7 @@ Thank you to Julia Flanders and Sarah Connell who ran the Digital Humanities Pro
 
 Thank you to Ryan Dubnicek for answering all my questions about the research proposal and for setting up access for the text files.
 
+**Also**
 
 In addition I'd like to thank Matthew Friese for his help with my statistics and math questions and Sally Svenson for being a critical reader (and proofreader) of the website content.
 
