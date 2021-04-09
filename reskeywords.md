@@ -19,7 +19,7 @@ The word "safety" is used in a few different contexts within *Stone*. One common
  
 As can be seen in the example above, hazard-related words such as "injuries," accidents," and "disaster" also frequently appear during this time period in reference to concrete.
  
-Articles pulled up through keyword in context analysis show that discussions of workplace safety do appear throughout the journal, particularly around the use of explosives in quarry work. There is also a great deal of discussion around safety issues in steam-powered equipment in the 1890s and early 1900s. After 1910 safety frequently appears as part of the phrase "Safety First," a slogan frequently used by safety advocates in the Progressive Era, that became a generic slogan for safety initiatives nationwide.[2]
+Articles pulled up through keyword in context analysis show that discussions of workplace safety do appear throughout the journal, particularly around the use of explosives in quarry work. There is also a great deal of discussion around safety issues in steam-powered equipment in the 1890s and early 1900s. After 1910 safety frequently appears as part of the phrase "Safety First," a slogan used by safety advocates in the Progressive Era, that became a generic slogan for safety initiatives nationwide.[2]
  
 Through close reading of articles flagged during my review of the keyword in context data, I was indeed able to see that there are changes in the language used over time in articles about workplace safety. For instance, an article titled "Risks in Quarrying" from the November 1897 issue blames workplace accidents on careless employees. For example, when the article discusses explosives:
  
@@ -77,7 +77,7 @@ The article continues with an examination of *Stone's* mixed feelings regarding 
 
 >The organized campaign that was waged against the quarrymen along the Palisades is familiar to almost everybody. Little objection can be urged to this because the Palisades are one of the great wonders of the world and should be preserved at any cost. The injustice was in the fact that few people seemed to think that the quarrymen were entitled to an honest compensation for the destruction of a legitimate business, even if the cessation of the work was demanded on the grounds of public policy. [17]
 
-"Quarrying on a Noted Landmark" from the June 1907 issue discusses a similar conflict around the potential opening of a large-scale quarrying operation on Alisa Craig, an island on the Scottish coast, also contains mixed language on the value of scenic beauty and its relationship to economic opportunity.
+"Quarrying on a Noted Landmark" from the June 1907 issue discusses a similar conflict around the potential opening of a large-scale quarrying operation on Alisa Craig, an island on the Scottish coast. This article also contains mixed language on the value of scenic beauty and its relationship to economic opportunity.
 
 >There is room for employing 1,000 men on the island, and it is understood that operations will be begun at an early date. It is said, however, these operations will be confined to the south and southeast faces, and not more than fifty men are to be employed. A long time would be necessary before sufficient rock would be removed to make the solid mass of Alisa Craig seem as deficient. Lovers of the picturesque are consoling themselves with the belief that the operations will be advantageous, for there will be more opportunities for a play of light and shade. [18]
 

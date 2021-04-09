@@ -6,7 +6,7 @@ title: Word Frequency
 
 ### Method Overview
 
-This analysis method is about as basic as you can get. I used Python to count each time an individual word appeared in the texts. The result was a total count for each searched-for word in each issue. I entered these words in a spreadsheet and normalized them to a count of how many times the word appeared per 1000 words in each issue so that I could reliably compare issues of varying lengths. I then used the spreadsheet data to graph use of words over time.
+This analysis method is about as basic as you can get. I used Python code to count each time an individual word appeared in the texts. The result was a total count for each searched-for word in each issue. I entered these words in a spreadsheet and normalized them to a count of how many times the word appeared per 1000 words in each issue so that I could reliably compare issues of varying lengths. I then used the spreadsheet data to graph use of words over time.
 
 I split my keywords into thematic groups, such as words related to hazards or words related to health, both for ease of processing and to see if I could identify patterns within word families over time. My five categories were:
 
