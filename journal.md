@@ -12,7 +12,7 @@ The first (May 1888) issue laid out the kind of material that that would be publ
 
 - **Contributions of a reliable and interesting character on technical topics.** These topics range in scope throughout the journal and include articles on stone cutting techniques, construction methods, travelogues of stone producing regions around the world, descriptions of specific stone types, and analysis of architectural styles that used stone as a primary material.
 
-- **Descriptive matter applying to mechanical devices which have to do with quarrying, cutting, handling and working stone; and articles relating to trade conditions."**
+- **Descriptive matter applying to mechanical devices which have to do with quarrying, cutting, handling and working stone; and articles relating to trade conditions.**
 
 - **Designs in any detail of stone working.**
 These articles provide details for work such as arch construction, monument designs, and decorative cutting patterns.
