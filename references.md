@@ -18,8 +18,6 @@ Bale, Anthony. "Medicine in the Industrial Battle: Early Workers' Compensation."
 Bennett, Dianne, and William Graebner. "Safety First: Slogan and Symbol of the Industrial Safety Movement." *Journal of the Illinois State Historical Society* 68, no. 3 ( June 1975): 243-256. https://www.jstor.org/stable/40191162
 
 Bowles, Oliver. *The Stone Industries: Dimension Stone, Crushed Stone, Geology, Technology, Distribution, Utilization*. New York: McGraw-Hill Book Company, Inc., 1939.
- 
-Brown, Phil. *Toxic Exposures: Contested Illnesses and the Environmental Health Movement*. New York: Columbia University Press, 2007.
 
 Burke, Gillian and Peter Richardson. “The Profits of Death: A Comparative Study of Miners’ Phthisis in Cornwall and the Transvaal, 1876-1918,” *Journal of Southern African Studies* 4, no. 2 (1978): 147–171. https://doi.org/10.1080/03057077808707983.
 
