@@ -9,7 +9,7 @@ At the start of this project I was unfamiliar with text analysis in general, out
 I performed my data analysis using the Python programming language within Jupyter notebooks. I chose this language as it was the language I learned in both Dr. Blevins's class and in "Analyzing Complex Digitized Data," a course I took with Dr. Laura Nelson in the fall of 2020. I am very grateful to Dr. Nelson for allowing me to work with my own data set for class assignments. This is where I worked out the text analysis techniques used for this project. Her feedback was helpful as I started my initial explorations. Using Python allowed me to take advantage of the tools within Python's Natural Language Toolkit (NLTK) for text processing and the Gensim library for the word vector analysis portion of the project.
 
 
-All of the Jupyter notebooks with my project code can be found in the project's [GitHub Repository](https://github.com/stonejournal/stonejournal_notebooks).
+All of the Jupyter notebooks with my project code can be found in the project's [GitHub Repository](https://github.com/stonejournal/stone_jupyter-notebooks).
 
 ### Data Preprocessing
  
