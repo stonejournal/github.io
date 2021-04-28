@@ -19,7 +19,7 @@ Over the summer of 2020 I manually separated the volumes into individual monthly
 
 ### Text Analysis Methods
 
-*Word Frequency Over Time.*
+**Word Frequency Over Time.**
 
 As part of this work I made lists of words to use as "safety," "health," and "environmental" keywords. These lists were developed by both looking through sample issues to identify articles that I felt were related to these topics and the kinds of words used as well as general searches with modern words associated with these topics. I also looked for synonyms and antonyms for those initial words for additional searches. One limitation of this approach is that many words can be used in multiple contexts that are extremely different from one another. For this reason my keyword lists were iterative and involved more than one analysis method. I looked at a large number of words in my initial lists and then narrowed down the final lists using keyword in context to remove some of the more problematic multiple-use words (for instance "crushed" which was also pulling up "crushed stone" which is part of the quarry industry's product line and thus was appearing frequently). I also removed words from the lists if they produced no or very few results unless they were words I was particularly interested in (for instance, "phthisis," a term sometimes used in place of silicosis).
 
