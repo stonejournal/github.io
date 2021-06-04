@@ -9,7 +9,7 @@ title: Historic Context
 Historians have produced several studies on changes in workplace safety culture from the beginning of the 20th Century and the legislative, legal, and social pressures that shifted the view of workplace accidents from something that was an inevitable byproduct of dangerous work to a failure of management initiatives. As the country industrialized throughout in the mid-to-late 1800s, new machinery and processes were introduced that made workplaces increasingly dangerous. Government commissions began to examine safety within certain industries, and attention was brought to the legal framework of accident compensation. In the 1910s states began to enact workers' compensation laws, which required employers to compensate workers or their families for injury or death on the job regardless of fault. By 1920 forty-four states had some form of worker's compensation legislation in place.[1] This legislation led to the increasing presence of safety programs within the workplace to reduce accidents as part of management procedure. Some industries, particularly manufacturing, were quicker to implement safety programs than others.[2] Environmental regulations were slower to develop than safety legislation, with the first federal protective legislation not enacted until the 1940s. However, the first conservation groups were established in the late 1800s, and an early battle in the environmental movement involved stopping stone quarrying activities along the Palisades in New Jersey and the creation of the Palisades Interstate Park in 1909.[3]
 
 <p align="center">
-<img alt = "c.1908 photo of granite quarry with men on unsecured wooden ladders running channeling machinery" img width="346" height="450" src="/assets/img/channeling_loc.jpeg">
+<img alt="c.1908 photo of granite quarry with men on unsecured wooden ladders running channeling machinery" img width="346" height="450" src="/assets/img/channeling_loc.jpeg">
 </p>
 <p align="center">
 Quarry Operations in Concord, New Hampshire c. 1908 [4]
@@ -24,7 +24,7 @@ Quarrying prior to the 1800s was primarily a local affair, where stone was remov
 While some quarrying took place underground, most quarries were either “shelf” quarries, where the stone was removed from a side of a hill, or “pit” quarries, where the stone was removed from below grade.[10] Dimension stone was quarried through the use of specialized cutting machines and wedges with methods specific to the stone being quarried, and then shaped to its final form within stone sheds and finishing shops with additional machinery. Pneumatic (air-driven) tools came into general use in these shops by the late 1890s. Sandblasting and jackhammers were added in the 1920s.[11] Explosives were not frequently used in the production of dimension stone, as they could damage the final product, but were often used to produce stone fragments for riprap or rubble, crushed stone, and manufacturing stone products.[12]
 
 <p align="center">
-<img alt = "c. 1903 photo of dust being produced during quarry operations in Tennessee" img width="590" height="447" src="/assets/img/knoxville_loc.jpeg">
+<img alt="c. 1903 photo of dust being produced during quarry operations in Tennessee" img width="590" height="447" src="/assets/img/knoxville_loc.jpeg">
 </p>
 <p align="center">
 Quarry Operations in Knoxville, Tennessee c. 1903 [13]
@@ -37,7 +37,7 @@ Dangers in the work of stone quarrying were described within the pages of *Stone
 While not typically as destructive as most mineral mining operations, quarrying does dramatically alter the landscape, leaving behind permanent scars.[17] Quarry operations also produced air-borne dust and smoke that affected wide areas and nearby populations.[18] Articles in *Stone* described conflicts between quarries and their surrounding neighborhoods around health and environmental issues.
 
 <p align="center">
-<img alt = "Posed photograph by the American Red Cross of a quarry rescue: men with iron bars prying a rock off a man" img width="590" height="447" src="/assets/img/firstaid_loc.jpeg">
+<img alt="Posed photograph by the American Red Cross of a quarry rescue: men with iron bars prying a rock off a man" img width="590" height="447" src="/assets/img/firstaid_loc.jpeg">
 </p>
 <p align="center">
 "First Aid in the Quarry," American Red Cross Photo c. 1920 [19]
