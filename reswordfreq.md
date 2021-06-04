@@ -24,7 +24,7 @@ I split my keywords into thematic groups, such as words related to hazards or wo
 
 I originally hoped that grouping words in categories would help me to look at big-picture patterns around families of words (like seeing responsibility or safety words being used more or less in certain time periods). However, I did not ultimately find this approach to be very helpful. As seen in the examples below, use of the words in each category were intermittent throughout time, and few patterns emerged.
 
-![image](/assets/img/safetycat_lineplot.png)
+![test of alt text](/assets/img/safetycat_lineplot.png)
 
 ![image](/assets/img/smokedustfumes_lineplot.png)
 
