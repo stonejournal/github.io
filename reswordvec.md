@@ -19,7 +19,7 @@ I appreciated the word vector analysis method for its provision of a different w
 
 The top ten results for words used in a context most similar to the word "safety" in all issues of *Stone* are:
 
-![image](/assets/img/mostsim_safety.png)
+![The top ten words used in similar contexts to safety in descending cosine similarity score order: factor, economy, efficiency, elimination, success, rapidity, duplex, thoroughness, potent, and cheapness](/assets/img/mostsim_safety.png)
 
 The number to the right of each word is its cosine similarity, which is a measure of how close in space the words are to one another. The number will be between 0 and 1. The closer to 1 the value is, the more often the word is found in the context of the search term. A more mathematically-based explanation for this value I found helpful can be found [here](https://paulminogue.com/index.php/2019/09/29/introduction-to-cosine-similarity/).
 
@@ -30,7 +30,7 @@ The number to the right of each word is its cosine similarity, which is a measur
 What I believe is tying "efficiency" and "economy" most strongly to "safety," however, is advertisements. The three words appear together in an advertisement for Rack-A-Rock blasting powder which appeared in multiple issues throughout the 1910s (image below).[3] This advertisement stated, "You need Rack-A-Rock for your work on the grounds of Safety, Economy and Efficiency."
 
 <p align="center">
-<img width="272" height="340" src="/assets/img/rackarock.png">
+<img alt="Image of an advertisement for Rack-A-Rock blasting powder" img width="272" height="340" src="/assets/img/rackarock.png">
 </p>
 
 Another advertisement, for the "Knox System of Blasting Rock," appears frequently in the 1800s and pairs only "safety" and "economy." The repeated presence of the Knox system's catchphrase -- "For Speed, Safety, Simplicity and Economy It Has No Rival" -- might help explain why "economy" is slightly more closely matched to "safety" than "efficiency." 
@@ -43,7 +43,7 @@ The presence of "cheapness" on the list appears to come largely from the ongoing
 
 I also produced some scatterplot visualizations of these semantic relationships. While this is an oversimplified explanation, essentially these charts group multiple words associated with a keyword by their shared relationships. While all words on the graph are related to the keyword, words that are close together in the physical space of the chart are used in similar contexts in relation to the keyword and words farther apart are less likely to be used in similar contexts in relation to the keyword. For instance, all of the words on the graph below are top results in relation to "safety," but the graph shows that articles that relate "safety" and "permanence" are different from articles that relate "safety" and "blasting". This can let you identify semantic groups among results. The top 50 results for safety show some groupings of words from different contexts:
 
-![image](/assets/img/wvscatterplot_safetymodel.png)  
+![A scatterplot of words that are used most frequently in relation to the word safety](/assets/img/wvscatterplot_safetymodel.png)  
 
 On the upper right of the graph is a group of words (including "duplex," "winches," and "brake") associated with machinery. Much of the lower right and center is populated with words related to explosives ("pop," "detonation," "electrical," "mounting," "firing," and "premature" among others). At the top left is a group of words I think represent the "efficiency and economy" discussion. Words at the lower left and center I believe come from the anti-concrete campaign around safety in *Stone*: both "permanence" and "stability" for the superior stone product and "cheapness" and "rapidity" for the inferior concrete product. "Menace" is present on the graph from the concrete-as-dangerous material side of the campaign. (There are a lot of references to "the menace of concrete" in the journal.)
 
@@ -51,10 +51,10 @@ The smaller 1888-1910 and 1911-1922 models have a few differences in the words m
 
 Words used in a similar context to "accidents" did show some key differences between the early journal issues and late journal issues:
 
-![image](/assets/img/to1910_mostsimaccidents.png)
-![image](/assets/img/post1910_mostsimaccidents.png)  
+![The top ten words used in similar contexts to accidents between 1888 and 1911 in descending cosine similarity score order: fatal, carelessness, losses, strikes, causes, dangers, accident, evils, persons, and risks](/assets/img/to1910_mostsimaccidents.png)
+![The top ten words used in similar contexts to accidents between 1911 and 1922 in descending cosine similarity score order: injuries, liability, workmen, decreases, causes, fatal, accident, injury, compensation, and employees](/assets/img/post1910_mostsimaccidents.png)  
 
-The 1888-1910 list includes "carelessness" as its second most similar term, which is part of articles and accident reports that discuss worker negligence as a hindrance to workplace safety. I was interested to see "strikes" and "protests" on this list. While I have not (yet) found articles in those issues that directly link safety and strikes, my suspicion is the result comes from the miscellaneous "Notes from Quarry and Shop" section that appears in each journal issue. This section provides short accident reports and quarry news items (like mentions of strikes) in the same location.
+The 1888-1910 list includes "carelessness" as its second most similar term, which is part of articles and accident reports that discuss worker negligence as a hindrance to workplace safety. I was interested to see "strikes" on this list. While I have not (yet) found articles in those issues that directly link safety and strikes, my suspicion is the result comes from the miscellaneous "Notes from Quarry and Shop" section that appears in each journal issue. This section provides short accident reports and quarry news items (like mentions of strikes) in the same location.
 
 Both "workmen" and "compensation" appear on the 1911-1922 list indicating the increasing importance of relevant legislation in shaping views around safety. "Liability" and "employees," as well as "decreases" and "causes," I also believe come from articles discussing workmen's compensation, methods of increasing workplace safety, and Bureau of Labor safety statistics.
 
@@ -62,11 +62,11 @@ Because my words don't appear all that frequently in the text, I did not have mu
 
 Because of its connection to safety, I was curious to see how the discussion around concrete was represented in word vector analysis. To this end I also created scatterplots for "concrete" within the two time-based models. I found the results for these two models quite interesting in their differences.
 
-![image](/assets/img/wvscatterplot_concreteto1910.png)
+![A scatterplot of words that are used most frequently in relation to the word concrete between 1888 and 1911](/assets/img/wvscatterplot_concreteto1910.png)
 
 Words in the 1888-1910 corpus associated with concrete are most often related to structures typically made with concrete, for instance "foundation," "piers," "culverts," and "sewers." Part of this area of concrete structure-related words includes a large cluster of words related to seawall construction such as "breakwater," "riprap," "dredging," "and "cofferdam." Terms involving road and sidewalk construction, where concrete and asphalt/macadam were beginning to compete with stone, but also where crushed stone was often used in roadbed construction (and why I think "rubble" appears near those words), take up much of the top of the grid.  The lower right-hand side of the grid (including "failures," "collapse," "advocates," and "insufficient") I believe is representative of the "concrete-as-dangerous-material" side of the anti-concrete campaign that began in the pages of the journal in the early 1900s. Concrete construction terms like "bracing" and "centering" are in the middle of the "things-you-can-make-with-concrete" and "concrete-as-dangerous-material" groups, as they are mentioned in both types of articles.
 
-![image](/assets/img/wvscatterplot_concretepost1910.png)
+![A scatterplot of words that are used most frequently in relation to the word concrete between 1911 and 1922](/assets/img/wvscatterplot_concretepost1910.png)
 
 The 1911-1922 model shows how thoroughly the anti-concrete campaign has taken over in reference to concrete in the pages of *Stone* by 1911. Most of the words in the center and right-hand side of the graph ("collapsed," "crack," "failures," "weak," etc.) are disaster or defect-related words from the "concrete-as-dangerous-material" argument. The "concrete-as-aesthetically-inferior" side of the campaign is also present at the upper right, with words such as "imitation," permanence," and "shams." "Terra cotta," a clay material that competed with natural stone in this same period, is also present in this list of related terms, near the word "artificial."
 
@@ -76,7 +76,7 @@ Because my health and environment keywords were typically rarely used within the
 
 Words associated with "health" in the 1888-1910 corpus (as seen in the graph below) include a lot of emotional and value-judgement words as well as quite a few words related to family relationships. These words are not typically seen in the top words included in the 1911-1922 corpus graph. Surprisingly, "neighbors" was the word with the highest cosine similarity to "health" in the 1888-1910 corpus.
 
-![image](/assets/img/wvscatterplot_healthto1910.png)
+![A scatterplot of words that are used most frequently in relation to the word health between 1888 and 1911](/assets/img/wvscatterplot_healthto1910.png)
 
 After reading through the articles I found through the keyword in context analysis for "health," I was still unsure where the association of these words might be coming from. I then ran several other words, such as "neighbors," "struggle," "suffering," "enemy," and "evil" through the keyword in context analysis. Based on those results, I think some of this language comes from a campaign in the magazine throughout the 1800s to encourage the formation of trade associations of marble and granite dealers in various states.  For instance, this editorial letter to dealers in Ohio in the February 1889 issue includes the following statement that contains several of the health-associated words:
 
@@ -88,7 +88,7 @@ A letter printed in the "Correspondence" section of the same issue uses a simila
 
 A lot of the terms at the top of the scatterplot appear to be from articles, letters, and editorials that were part of this campaign. However, I also have a suspicion that the structure of the journal itself contributed to relationships between words, with some of the shared terms influenced by the "Notes from Quarry and Shop" and other miscellaneous sections of each journal issue. In these miscellaneous sections, small reports of bizarre accidents co-exist with random pieces on topics of interest, jokes, short poems, announcements of new quarries, obituaries, and notices that people have sold or closed their businesses due to poor health.
 
-![image](/assets/img/wvscatterplot_healthpost1910.png)
+![A scatterplot of words that are used most frequently in relation to the word health between 1911 and 1922](/assets/img/wvscatterplot_healthpost1910.png)
 
 The words associated with "health" in the 1911-1922 corpus (see the graph above) are very different from those of the 1888-1910 corpus. Instead of emotional words, they have become largely governmental and institutional words. A small group of words on the right side of the graph ("menace," "lives," "integrity," and "guard," among others) appear to come from the anti-concrete campaign. There is also a small cluster of words reflecting a series of articles about the "health of the industry" due to a war-related decline in building construction and discussions of how the government should intervene. This group can be found at the lower right of the graph and includes "finance," "session," "loans," "taxpayers," and "spending."
 

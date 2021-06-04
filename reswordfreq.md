@@ -24,13 +24,13 @@ I split my keywords into thematic groups, such as words related to hazards or wo
 
 I originally hoped that grouping words in categories would help me to look at big-picture patterns around families of words (like seeing responsibility or safety words being used more or less in certain time periods). However, I did not ultimately find this approach to be very helpful. As seen in the examples below, use of the words in each category were intermittent throughout time, and few patterns emerged.
 
-![test of alt text](/assets/img/safetycat_lineplot.png)
+![line graph of the words Safety, Safe, Protect, Protection and Welfare. Safety and Safe show a dramatic rise between 1910 and 1917](/assets/img/safetycat_lineplot.png)
 
-![image](/assets/img/smokedustfumes_lineplot.png)
+![line graph of the words Smoke, Dust, and Fumes. There is no discernable pattern in how these words are used](/assets/img/smokedustfumes_lineplot.png)
 
 I found graphs of individual word use over time more helpful in spotting trends. Gratifyingly, "safety" was one word that shows a distinct pattern, with a significant spike in usage between 1912 and 1915.
 
-![image](/assets/img/safety_lineplot.png)
+![Line graph of the word Safety, showing a definite increase in use between 1910 and 1917](/assets/img/safety_lineplot.png)
 
 This brings me to the limitations of this approach. While this spike shows that there was indeed an increase in the number of times this word was used in *Stone* during this period, does this mean that employers were paying more attention to safety in the workplace? Word frequency counts cannot provide the answer. I needed to look at the result of the keyword in context analysis to make sense of what I was seeing in the graphs above. Only by identifying the context in which the words appear could I determine that, while they are talking about safety more between 1912 and 1915, it is not typically in the context of workers' safety or safety within stone quarrying operations. The majority of the time "safety" is used after 1910 is in the context of articles discussing concrete construction.
  
@@ -38,13 +38,13 @@ Reinforced concrete was a novel and experimental building material in the late 1
  
 The most active period of *Stone*'s anti-concrete crusade is between 1909 and 1914. After 1914 anti-concrete articles and reports of concrete disasters continue to appear in the journal, but not with the frequency found during the earlier period. Anti-concrete articles contribute to trends in several of the other word counts, particularly for words referring to hazardous conditions which also peak in the 1909-1914 period.
 
-![image](/assets/img/disasterrelated_lineplot.png)
+![Line graph of the words Disaster, Catastrophe, Unsafe and Peril. There is a large increase in the use of Disaster between 1908 and 1915, and smaller increases in the use of the other three words during that time period](/assets/img/disasterrelated_lineplot.png)
 
 Word frequency over time did pull out a few other patterns that could be confirmed through reading the articles found in the keyword in context exercise. "Negligence" and "negligent" as used in reference to accidents caused by workers appear more frequently in the early issues of the journal. After the 1910s those terms rarely appear, and when they do it is often in reference to "concrete advocates." "Compensation" does not appear frequently until after 1909 and is usually found in the context of articles on the effects of workmen's compensation laws.
 
-![image](/assets/img/negligent_lineplot.png)
+![Line graph of the use of Negligent and Negligence over time. Negligent is used more in the 1891-1902 period versus later periods](/assets/img/negligent_lineplot.png)
 
-![image](/assets/img/compensation_lineplot.png)
+![Line graph of the word Compensation. It is not used very frequently until after 1910](/assets/img/compensation_lineplot.png)
 
 My lists of health and environment keywords did not show many recognizable patterns. I was hoping I would see more instances of "dust" and "lungs" on my health list. Historic literature indicates that silicosis was only beginning to enter public consciousness in the late 1910s and 1920s[4] and digitized issues are only available up to 1922. Terms associated with silicosis such as "phthisis" and "consumption" appear infrequently. Environment-related words on my list had low numbers overall and did not have any patterns I could identify.
  

@@ -44,7 +44,7 @@ The majority of articles after 1910 focus more on how to provide safety than in 
 This change around the language of safety can be seen in the journal beyond articles that discuss safety directly, particularly in accident reporting and advertisements. "Notes from Quarry and Shop," the section in early issues of *Stone* devoted to miscellaneous news items, is filled with small reports of unusual accidents and reports on the outcomes of litigation of cases where widows and injured men sued employers for negligence. These "unusual" accident reports for the most part disappear by 1912 and are replaced by tables of statistics on all accidents within the industry as compiled in reports by the U.S. Bureau of Mines and the Bureau of Labor Statistics. Articles discussing specific accidents in the late 1910s and 1920s primarily focus on analyzing what went wrong and how to prevent similar accidents from occurring in the future. Advertisements also increasingly tout the safety features of their products from the 1910s-1920s. For example, this 1917 advertisement for DuPont Blasting Machines uses the "Safety-First" slogan and notes its product can "safeguard life and property." This advertisement is only one of many that uses safety vocabulary as part of marketing copy in later issues.[8]
 
 <p align="center">
-<img width="235" height="340" src="/assets/img/dupontblastingmachine.png">
+<img alt="Image of an advertisement for DuPont Blasting Machines with the slogan Make Yours a Safety-First Quarry" img width="235" height="340" src="/assets/img/dupontblastingmachine.png">
 </p>
 
 #### Health and Environment
